@@ -1,0 +1,15 @@
+1. Find the frequency of an element in array
+ 	eg. Array = [4,6,8,3,7,1,5]  
+ 	
+2. Implement Bubble sort
+	eg. Array = [4,6,8,3,7,1,5,2]
+	O/P ==> Array = [1,2,3,4,5,6,7,8]
+
+4. Implement Queue using array
+	- Enqueue()
+	- Dequeue()
+	- Peek()
+	- Size()
+	- isEmpty()
+	- isFull()
+	

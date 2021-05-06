@@ -1,0 +1,20 @@
+1. Find the indexes/values from an array whose sum of two values is equal to given value N
+ 	eg. Array = [4,6,8,3,7,1,5]  and N = 15
+ 	A[i] + A[j] == N
+ 	
+2. Find the indexes/values from an array whose sum of three values is equal to given value N
+ 	eg. Array = [4,6,8,3,7,1,5,2]  and N = 15
+ 	A[i]+A[j]+A[k] == n
+
+3. Implement quick sort
+	eg. Array = [4,6,8,3,7,1,5,2]
+	O/P ==> Array = [1,2,3,4,5,6,7,8]
+
+4. Implement Stack using array
+	- Push()
+	- Pop()
+	- Peek()
+	- Size()
+	- isEmpty()
+	- isFull()
+	
